@@ -1,7 +1,7 @@
 # Introduction
 s3-benchmark is a performance testing tool provided by Wasabi for performing S3 operations (PUT, GET, and DELETE) for objects. Besides the bucket configuration, the object size and number of threads varied be given for different tests.
 
-The testing tool is loosely based on the Nasuni (http://www6.nasuni.com/rs/nasuni/images/Nasuni-2015-State-of-Cloud-Storage-Report.pdf) performance benchmarking methodologies used to test the performance of different cloud storage providers
+The testing tool is loosely based a performance testing methodology pioneered by the storage vendor Nasuni (https://www.nasuni.com) and described in this document: https://wasabi.com/wp-content/uploads/2019/01/Nasuni-2015-State-of-Cloud-Storage-Report.pdf 
 
 # Prerequisites
 To leverage this tool, the following prerequisites apply:
